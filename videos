@@ -1,24 +1,156 @@
 {
   "success": true,
-  "totalVideos": 3,
+  "totalVideos": 25,
   "videos": [
     {
       "id": 1,
       "title": "What is Real Bhakti? | BDD Swami Maharaj",
       "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
-      "transcript": "In this lecture, His Holiness BDD Swami Maharaj explains the essence of pure devotional service and how bhakti is beyond ritualistic practices..."
+      "transcript": "In this lecture, His Holiness BDD Swami Maharaj explains the essence of pure devotional service and how bhakti is beyond ritualistic practices."
     },
     {
       "id": 2,
       "title": "How to Control the Mind | Spiritual Guidance",
       "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
-      "transcript": "The mind is restless and difficult to control, but through Krishna consciousness and sincere chanting, one can gradually attain steadiness..."
+      "transcript": "The mind is restless and difficult to control, but through Krishna consciousness and sincere chanting, one can gradually attain steadiness."
     },
     {
       "id": 3,
       "title": "Guru and Disciple Relationship Explained",
       "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
-      "transcript": "BDD Swami Maharaj describes the importance of accepting a bona fide spiritual master and serving with humility and faith..."
+      "transcript": "BDD Swami Maharaj explains the importance of accepting a bona fide spiritual master and serving with humility and faith."
+    },
+    {
+      "id": 4,
+      "title": "Power of the Holy Name",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Chanting the holy names of Krishna is the most effective spiritual practice in Kali-yuga."
+    },
+    {
+      "id": 5,
+      "title": "Purpose of Human Life",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "Human life is meant for self-realization and understanding our eternal relationship with Krishna."
+    },
+    {
+      "id": 6,
+      "title": "What is Pure Devotional Service?",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Pure devotion means serving Krishna without any material desires or selfish motivation."
+    },
+    {
+      "id": 7,
+      "title": "Why Suffering Exists?",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Suffering in this world is due to forgetfulness of Krishna and misuse of free will."
+    },
+    {
+      "id": 8,
+      "title": "Understanding Karma and Rebirth",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "Our actions create karma, which binds the soul to repeated birth and death."
+    },
+    {
+      "id": 9,
+      "title": "Importance of Sadhu Sanga",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Association with devotees helps purify the heart and strengthens faith in bhakti."
+    },
+    {
+      "id": 10,
+      "title": "How Bhakti Transforms Life",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Bhakti yoga brings peace, clarity, and genuine happiness to one’s life."
+    },
+    {
+      "id": 11,
+      "title": "Understanding the Soul",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "The soul is eternal, full of knowledge and bliss, and distinct from the body."
+    },
+    {
+      "id": 12,
+      "title": "Material Desire vs Spiritual Desire",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Spiritual desire leads to liberation, while material desire causes bondage."
+    },
+    {
+      "id": 13,
+      "title": "How to Develop Faith in Krishna",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Faith develops by hearing transcendental knowledge from authentic sources."
+    },
+    {
+      "id": 14,
+      "title": "Role of Discipline in Bhakti",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "Regulated spiritual practice helps maintain focus and sincerity in devotion."
+    },
+    {
+      "id": 15,
+      "title": "What is Maya?",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Maya is the illusory energy that diverts the soul away from Krishna."
+    },
+    {
+      "id": 16,
+      "title": "Why Chanting is Essential",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Chanting cleanses the heart and awakens love of God."
+    },
+    {
+      "id": 17,
+      "title": "Difference Between Religion and Bhakti",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "Bhakti is a loving relationship with God, beyond formal religious identity."
+    },
+    {
+      "id": 18,
+      "title": "How to Overcome Laziness in Spiritual Life",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Enthusiasm and good association help overcome spiritual inertia."
+    },
+    {
+      "id": 19,
+      "title": "Importance of Bhagavad Gita",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Bhagavad Gita is the foundational guide for understanding Krishna consciousness."
+    },
+    {
+      "id": 20,
+      "title": "How to Balance Spiritual and Material Life",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "Spiritual life does not reject duties but spiritualizes them."
+    },
+    {
+      "id": 21,
+      "title": "Signs of Spiritual Progress",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Detachment from material enjoyment and taste for chanting indicate progress."
+    },
+    {
+      "id": 22,
+      "title": "How Mercy Works in Bhakti",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "Mercy descends through guru and Krishna to sincere seekers."
+    },
+    {
+      "id": 23,
+      "title": "Importance of Humility",
+      "videoUrl": "https://www.youtube.com/watch?v=5W6pJkZyT3c",
+      "transcript": "Humility is the foundation of genuine spiritual advancement."
+    },
+    {
+      "id": 24,
+      "title": "Serving Krishna in Daily Life",
+      "videoUrl": "https://www.youtube.com/watch?v=J7nq8FZkHkE",
+      "transcript": "Every activity can become service when done for Krishna."
+    },
+    {
+      "id": 25,
+      "title": "Ultimate Goal of Bhakti Yoga",
+      "videoUrl": "https://www.youtube.com/watch?v=ZV4WJ9eR6aM",
+      "transcript": "The ultimate goal of bhakti yoga is to awaken pure love for Krishna."
     }
   ]
 }
